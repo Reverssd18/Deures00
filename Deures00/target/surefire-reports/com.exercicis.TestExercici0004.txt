@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.exercicis.TestExercici0002
+Test set: com.exercicis.TestExercici0004
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.053 s -- in com.exercicis.TestExercici0002
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 s -- in com.exercicis.TestExercici0004
